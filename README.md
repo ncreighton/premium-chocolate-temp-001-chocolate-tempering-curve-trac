@@ -1,0 +1,2 @@
+# premium-chocolate-temp-001-chocolate-tempering-curve-trac
+Your chocolate seized mid-temper because you couldn't track temperature transitions in real-time. The Chocolate Tempering Curve Tracker solves this by giving you a visual, data-driven system to monitor every degree of your tempering curve.  Stop guessing when your chocolate hits beta crystal stability. This Notion template lets you log temperature
